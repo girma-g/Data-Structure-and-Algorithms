@@ -1,6 +1,6 @@
 
-// Problem: 50. Count Primes
-// Link: https://leetcode.com/problems/count-primes/
+// Problem: 2427. Number of Common Factors
+// Link: https://leetcode.com/problems/number-of-common-factors/
 
 class Solution {
     public int countPrimes(int n) {
