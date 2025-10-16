@@ -1,5 +1,6 @@
 
-
+// Problem: 2427. Number of Common Factors
+// Link: https://leetcode.com/problems/number-of-common-factors/
 
 class Solution {
     public int commonFactors(int a, int b) {
